@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Myles Hiatt</title>
+    <link>http://replace-this-with-your-domain.com/about/</link>
+    <description>Recent content in Abouts on Myles Hiatt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-domain.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://replace-this-with-your-domain.com/about/</link>
+      <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-domain.com/about/</guid>
+      <description>
+
+&lt;p&gt;I am an full stack developer with a particular focus on node.js and javascript. I enjoy working on projects where I have my hands in all aspects of the application, including the user interface, api, and the database driving it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;skills:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Skills&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTML / XHMTL / Jade&lt;/li&gt;
+&lt;li&gt;CSS / SASS&lt;/li&gt;
+&lt;li&gt;JavaScript / jQuery&lt;/li&gt;
+&lt;li&gt;NodeJS&lt;/li&gt;
+&lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;li&gt;AngularJS&lt;/li&gt;
+&lt;li&gt;Mongo DB&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;projects:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Projects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zeusauction.com&#34; target=&#34;_blank&#34; title=&#34;Zeus Auction System&#34;&gt;Zeus Auction System&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sriservices.com&#34; target=&#34;_blank&#34; title=&#34;SRI Services&#34;&gt;SRI Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
