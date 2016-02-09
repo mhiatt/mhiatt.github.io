@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Myles Hiatt</title>
-    <link>http://replace-this-with-your-domain.com/about/</link>
+    <link>http://mhiatt.github.io/hugo-blog/about/</link>
     <description>Recent content in Abouts on Myles Hiatt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-domain.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mhiatt.github.io/hugo-blog/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://replace-this-with-your-domain.com/about/</link>
+      <link>http://mhiatt.github.io/hugo-blog/about/</link>
       <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-domain.com/about/</guid>
+      <guid>http://mhiatt.github.io/hugo-blog/about/</guid>
       <description>
 
 &lt;p&gt;I am an full stack developer with a particular focus on node.js and javascript. I enjoy working on projects where I have my hands in all aspects of the application, including the user interface, api, and the database driving it.&lt;/p&gt;
