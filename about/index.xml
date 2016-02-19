@@ -17,7 +17,7 @@
       <guid>http://mhiatt.github.io/about/</guid>
       <description>
 
-&lt;p&gt;I am an full stack developer with a particular focus on node.js and javascript. I enjoy working on projects where I have my hands in all aspects of the application, including the user interface, api, and the database driving it.&lt;/p&gt;
+&lt;p&gt;I am an full stack developer with a particular focus on NodeJS and javascript. I enjoy working on projects where I have my hands in all aspects of the application, including the user interface, api, and the database driving it.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -42,6 +42,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.zeusauction.com&#34; target=&#34;_blank&#34; title=&#34;Zeus Auction System&#34;&gt;Zeus Auction System&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.sriservices.com&#34; target=&#34;_blank&#34; title=&#34;SRI Services&#34;&gt;SRI Services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mhiatt.github.io/backbone-tutorial-blogs&#34; target=&#34;_blank&#34; title=&#34;Simple Backbone Tutorial&#34;&gt;Simple Backbone Tutorial&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
