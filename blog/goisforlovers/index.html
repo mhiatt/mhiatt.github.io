@@ -152,23 +152,23 @@ range.</p>
 
 <p><strong>Example 1: Using Context</strong></p>
 
-<pre><code>{{ range array }} 
+<pre><code>{{ range array }}
     {{ . }}
 {{ end }}
 </code></pre>
 
 <p><strong>Example 2: Declaring value variable name</strong></p>
 
-<pre><code>{{range $element := array}} 
-    {{ $element }} 
+<pre><code>{{range $element := array}}
+    {{ $element }}
 {{ end }}
 </code></pre>
 
 <p><strong>Example 2: Declaring key and value variable name</strong></p>
 
 <pre><code>{{range $index, $element := array}}
-    {{ $index }} 
-    {{ $element }} 
+    {{ $index }}
+    {{ $element }}
 {{ end }}
 </code></pre>
 
@@ -192,7 +192,7 @@ logic in Go Templates. Like range, each statement is closed with <code>end</code
 
 <p><strong>Example 2: If -&gt; Else</strong></p>
 
-<pre><code>{{ if isset .Params &quot;alt&quot; }} 
+<pre><code>{{ if isset .Params &quot;alt&quot; }}
     {{ index .Params &quot;alt&quot; }}
 {{else}}
     {{ index .Params &quot;caption&quot; }}
@@ -217,7 +217,7 @@ and skips the block if the variable is absent.</p>
 
 <p><strong>Example 5: If -&gt; Else If</strong></p>
 
-<pre><code>{{ if isset .Params &quot;alt&quot; }} 
+<pre><code>{{ if isset .Params &quot;alt&quot; }}
     {{ index .Params &quot;alt&quot; }}
 {{ else if isset .Params &quot;caption&quot; }}
     {{ index .Params &quot;caption&quot; }}
@@ -268,7 +268,7 @@ Stuff Here
 <p>Could be rewritten as</p>
 
 <pre><code>{{  isset .Params &quot;caption&quot; | or isset .Params &quot;title&quot; | or isset .Params &quot;attr&quot; | if }}
-Stuff Here 
+Stuff Here
 {{ end }}
 </code></pre>
 
@@ -391,7 +391,7 @@ so, such as in this example:</p>
                         </div>
                     </a>
                 <section id="sharing">
-                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fmhiatt.github.io%2fpost%2fgoisforlovers%2f - %28Hu%29go%20Template%20Primer by @Your%20Twitter%20account"><span class="icon-twitter"> Tweet</span></a>
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fmhiatt.github.io%2fblog%2fgoisforlovers%2f - %28Hu%29go%20Template%20Primer by @Your%20Twitter%20account"><span class="icon-twitter"> Tweet</span></a>
 
 <a class="facebook" href="#" onclick="
     window.open(
@@ -407,9 +407,9 @@ so, such as in this example:</p>
             <div id="disqus_thread"></div>
 <script type="text/javascript">
     var disqus_shortname = 'mhiatt';
-    var disqus_identifier = 'http:\/\/mhiatt.github.io\/post\/goisforlovers\/';
+    var disqus_identifier = 'http:\/\/mhiatt.github.io\/blog\/goisforlovers\/';
     var disqus_title = '(Hu)go Template Primer';
-    var disqus_url = 'http:\/\/mhiatt.github.io\/post\/goisforlovers\/';
+    var disqus_url = 'http:\/\/mhiatt.github.io\/blog\/goisforlovers\/';
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
